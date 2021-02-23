@@ -1,7 +1,7 @@
 # LinkedIn Network Analysis
 
 ## Motivation
-As an active user on [LinkedIn](https://www.linkedin.com/in/richardcsuwandi/) with more than 1000 connections, I was curious about the statistics of my connections. 
+As an active user on [LinkedIn](https://www.linkedin.com/in/richardcsuwandi/) with more than 1000 connections, I was curious about the statistics of my network. 
 In this project, I will utilize exploratory analysis with data visualizations to gain insights from my own LinkedIn data.
 
 The notebook of this project can be found [here](https://nbviewer.jupyter.org/github/richardcsuwandi/linkedin-network-analysis/blob/master/linkedin-network-analysis.ipynb)
