@@ -32,6 +32,9 @@ The DataFrame above contains data about the current positions and companies of p
     <script data-plotly="richardcsuwandi:1" sharekey-plotly="ShrJS34RviEZWSCANSx1Nu" src="https://plotly.com/embed.js" async></script>
 </div>
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~richardcsuwandi/1.embed"></iframe>
+
+
 ![Date Connected](https://github.com/richardcsuwandi/linkedin-network-analysis/blob/master/images/date_connected.png?raw=true)
 From the line plot above, we can see that there is a peak in the number of connections per day on 26 August 2020. It also seems that August 2020 is the period when I was the most active on LinkedIn.
 
