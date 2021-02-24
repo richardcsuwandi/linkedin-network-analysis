@@ -26,4 +26,4 @@ Using the treemap above, it is easier to compare the proportion of one company/o
 
 ![Position Bar Plot](https://github.com/richardcsuwandi/linkedin-network-analysis/blob/master/images/position_bar.png?raw=true)
 ![Position Treemap](https://github.com/richardcsuwandi/linkedin-network-analysis/blob/master/images/position_treemap.png?raw=true)
-Wow! I didn't expect to see that many data scientists in my network, followed by machine learning engineers and data analysts. It is great to know that the top common positions in my network are my target group for networking.
+The top position in my network is data scientists, followed by machine learning engineers and data analysts. It is great to know that the top common positions in my network are my target group for networking.
