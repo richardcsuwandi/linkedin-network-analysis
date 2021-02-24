@@ -27,12 +27,6 @@ The DataFrame above contains data about the current positions and companies of p
 ### Number of Connections on a Given Date
 > How many connections did I make in a given date?
 
-<div>
-    <a href="https://plotly.com/~richardcsuwandi/1/?share_key=ShrJS34RviEZWSCANSx1Nu" target="_blank" title="Date_Connected" style="display: block; text-align: center;"><img src="https://plotly.com/~richardcsuwandi/1.png?share_key=ShrJS34RviEZWSCANSx1Nu" alt="Date_Connected" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="richardcsuwandi:1" sharekey-plotly="ShrJS34RviEZWSCANSx1Nu" src="https://plotly.com/embed.js" async></script>
-</div>
-
-
 ![Date Connected](https://github.com/richardcsuwandi/linkedin-network-analysis/blob/master/images/date_connected.png?raw=true)
 From the line plot above, we can see that there is a peak in the number of connections per day on 26 August 2020. It also seems that August 2020 is the period when I was the most active on LinkedIn.
 
