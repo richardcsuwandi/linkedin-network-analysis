@@ -12,6 +12,16 @@ In this project, I will go through how I utilized exploratory analysis and data 
 
 The notebook of this project can be found [here](https://nbviewer.jupyter.org/github/richardcsuwandi/linkedin-network-analysis/blob/master/linkedin-network-analysis.ipynb)
 
+## Data
+To analyze and visualize my network, the first step that I need to do is to get my LinkedIn data. 
+All I need to do is just select which data I want to get and it will be downloaded as a CSV file.
+![LinkedIn Data](https://github.com/richardcsuwandi/linkedin-network-analysis/blob/master/images/data.png?raw=true)
+
+Here are the first few rows from the `Connections.csv` file that I've downloaded:
+![DataFrame](https://github.com/richardcsuwandi/linkedin-network-analysis/blob/master/images/df.png?raw=true)
+
+The DataFrame above contains data about the current positions and companies of people in my network as well as when the date I connect to that person.
+
 ## Key Findings
 
 ### Number of Connections on a Given Date
