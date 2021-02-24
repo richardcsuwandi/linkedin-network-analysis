@@ -3,7 +3,9 @@
 ## Motivation
 As an active user on [LinkedIn](https://www.linkedin.com/in/richardcsuwandi/) with more than 1000 connections, I was curious about the statistics of my network. 
 In particular, I was wondering about these questions:
+
 > What are the segments of people in my network?
+
 > Do most of the people in my network work in data science related field?
 
 In this project, I will go through how I utilized exploratory analysis and data visualizations to answer these questions and gain insights from my own LinkedIn data.
