@@ -1,4 +1,5 @@
 # LinkedIn Network Analysis
+[![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/analyzing-my-own-linkedin-data-24df63a9dc28)
 
 Check out the tutorial for this project on [Medium](https://towardsdatascience.com/analyzing-my-own-linkedin-data-24df63a9dc28).
 
