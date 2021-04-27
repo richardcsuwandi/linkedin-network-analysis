@@ -1,6 +1,8 @@
 # LinkedIn Network Analysis
 [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/analyzing-my-own-linkedin-data-24df63a9dc28)
 
+<iframe src="https://www.kaggle.com/embed/richardcsuwandi/linkedin-network-analysis?kernelSessionId=55086409" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="LinkedIn Network Analysis"></iframe>
+
 ## Motivation
 As an active user on [LinkedIn](https://www.linkedin.com/in/richardcsuwandi/) with more than 1000 connections, I was curious about the statistics of my network. 
 In particular, I was wondering about these questions:
